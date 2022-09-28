@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    padding-left: 100px;
+    padding-right: 150px;
+}
+
+.header img {
+    width: 100px;
+    height: 50px;
+}
+
+.header a {
+    text-decoration: none;
+    color: orange;
+    padding-left: 15px;
+}
+
+.header a:hover {
+    color: yellow;
+}
